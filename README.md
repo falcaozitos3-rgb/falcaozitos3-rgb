@@ -25,12 +25,6 @@ este perfil so estara trabalhando daqui algums meses.
 
 ---
 
-### 📊 Estatísticas Gerais
-
-| ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=falcaozitos3-rgb&show_icons=true&theme=dark&bg_color=080710&border_color=3b82f6) | ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=falcaozitos3-rgb&layout=compact&theme=dark&bg_color=080710&border_color=3b82f6) |
-|---|---|
-
----
 
 ### 📬 Conecte-se Comigo
 - 🌐 **Perfil GitHub**: [github.com/falcaozitos3-rgb](https://github.com/falcaozitos3-rgb)
