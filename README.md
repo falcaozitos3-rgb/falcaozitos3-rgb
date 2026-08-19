@@ -16,7 +16,7 @@ este perfil so estara trabalhando daqui algums meses.
 
 
 #### 📂 Repositórios Técnicos
-*   **falcaozitos3-rgb**: No description provided. *(Desenvolvido em **TypeScript**)*
+*   **falcaozitos3-rgb**: Desenvolvedor python, GO, (golang) JavaScript, c#, CSS3 HTML5, tudo em proseso de aprendizado.
 *   **Escudo_Digital**: O escudo digital e um sistema desenvolvido para pesoas mais velhas, e pesoas que não sabem usar tecnologia.  IA, Cibersegurança, desenvolvimento Web. feito pra ser algo simples acesivel. *(Desenvolvido em **Python**)*
 *   **DeveFolio-portifolio-para-desenvolvedores-**: O DeveFolio e uma plataforma de deves, assim como linkedin e o proprio github, mais e posivel assim como o linkedin colocar fotos de como seu projeto é. *(Desenvolvido em **CSS**)*
 *   **projetos_pequenos**: são pequenos codigos com linguagem python magoritariamente, com isso tem HTML e um pouco  de C# se não mais, E talvez depis JS *(Desenvolvido em **Python**)*
