@@ -28,4 +28,5 @@ este perfil so estara trabalhando daqui algums meses.
 
 ### 📬 Conecte-se Comigo
 - 🌐 **Perfil GitHub**: [github.com/falcaozitos3-rgb](https://github.com/falcaozitos3-rgb)
-- 💼 **LinkedIn**: [Seu LinkedIn](https://linkedin.com)
+- 💼 **LinkedIn**: Por enquanto esta sem
+  
